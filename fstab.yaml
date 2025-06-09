@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130788-e1275641.adobeaemcloud.com/bin/franklin.delivery/ensemble/sandbox-recordedfuture/main"
+    url: "https://author-p130788-e1275641.adobeaemcloud.com/bin/franklin.delivery/EnsembleSystems/sandbox-recordedfuture/main"
     type: "markup"
     suffix: ".html"
